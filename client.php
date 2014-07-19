@@ -1,5 +1,5 @@
 <?php
 $clientId = 'yourClientId';
 $clientSecret = 'yourClientSecret';
-$client = new new($clientId, $clientSecret);
+$client = new php($clientId, $clientSecret);
 ?>
